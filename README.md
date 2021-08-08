@@ -1,1 +1,4 @@
-# Flappy-Bird-copy
+# Flappy-Bird-Copy
+
+
+Minha versão do jogo Flappy Bird
